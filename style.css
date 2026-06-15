@@ -47,7 +47,7 @@ a { text-decoration: none; color: inherit; }
 .nav__right {
   display: flex;
   gap: 2rem;
-  font-size: 11px;
+  font-size: 12px;
   letter-spacing: 0.12em;
   font-weight: 500;
 }
@@ -63,7 +63,7 @@ a { text-decoration: none; color: inherit; }
 
 .nav__logo {
   font-family: var(--font-display);
-  font-size: 1.75rem;
+  font-size: 3rem;
   font-weight: 600;
   letter-spacing: -0.01em;
   color: var(--charcoal);
