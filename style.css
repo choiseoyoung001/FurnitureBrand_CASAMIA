@@ -41,9 +41,6 @@ a { text-decoration: none; color: inherit; }
   grid-template-columns: 1fr auto 1fr;
   align-items: center;
   padding: 1.4rem 2.8rem;
-  background: rgba(253, 251, 248, 0.88);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
 }
 
 .nav__left,
@@ -248,7 +245,7 @@ a { text-decoration: none; color: inherit; }
 }
 .footer__brand {
   font-family: var(--font-display);
-  font-size: 1.3rem;
+  font-size: 2rem;
 }
 .footer__links {
   display: flex;
